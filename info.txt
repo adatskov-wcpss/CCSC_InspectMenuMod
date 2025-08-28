@@ -1,0 +1,13 @@
+
+{
+	"Name": "Inspect Menu",
+	"ID": "Inspect menu",
+	"Author": "Adatskov",
+	"Description": "summons the eruda inspect menu",
+	"ModVersion": 1.1,
+	"GameVersion": 2.052,
+	"Date": "5/27/25",
+	"Dependencies": ["CCSE"],
+	"Disabled": 1,
+  "AllowSteamAchievs": 1
+}
